@@ -1,2 +1,2 @@
 # HackerRankCertificates
-All HackerRank Certificates
+All  Certificates
